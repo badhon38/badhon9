@@ -1,0 +1,530 @@
+/*Author Name:badhon roy
+ Author info:badhon.pub38@gmail.com;
+ */
+ /*
+ ====INDEX====
+    1.HOME
+    2.ABOUT
+    3.FEATURES 
+    4.SWITCH  
+    5.DOWNLOAD NOW
+===============
+*/
+
+
+/* GLOBAL CSS */
+
+h1{
+
+}
+h2{
+
+}
+
+h3{
+
+
+}
+
+p{
+
+    
+}
+section {
+  padding: 50px 0;
+}
+
+/*GLOBAL CSS END */
+
+/*THEME CSS */
+
+/*nev part start */
+.nav-new{
+    background: #0a2345;
+    padding-top: 50px;
+}
+.nav-font li a{
+color: gray;
+font-family: 'Roboto regular', serif;
+font-size: 18px;
+
+}
+
+/*nev part end */
+
+
+/* HADER PART START */
+.header-files{
+    background-color: #0a2345;
+   
+}
+.head-head h2{
+    margin: 0 auto;
+    text-align: center;
+    
+    padding-top: 110px;
+    font-family: 'Roboto light', serif;
+    font-size: 48px;
+}
+.head-head p{
+    margin: 0 auto;
+    text-align: center;
+
+    padding-top: 20px;
+    font-family: 'Roboto bold', serif;
+    font-size: 18px;
+}
+
+
+
+.one h3{
+    color: #fff;
+    padding-top: 20px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+.one p{
+font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+.btn-cust-one{
+    background-color: transparent;
+    padding: 8px 8px;
+    border: 1px solid #265CA7;
+    margin-top: 50px;
+    border-radius: 25px;
+    margin: 25px 41%;
+}
+.banner-files{
+    background: url(../img/back-one.png)no-repeat center;
+    padding-top: 50px;
+}
+.banner-files img{
+
+}
+/* HADER PART END */
+
+
+
+/* SECTION-ONE PART START */
+.sec-two{
+    
+  background: #0a2345;
+}
+.sec-two h2{
+	    margin: 0 auto;
+    text-align: center;
+    padding-top: 158px;
+    font-family: 'Roboto bold', serif;
+    font-size: 48px;
+}
+.sec-two p{
+    font-family: 'Roboto light', serif;
+    font-size: 18px;
+    color: #66778e;
+    padding-top: 10px;
+}
+.sec-sub{
+        width: 98%;
+}
+
+.btn-two{
+    border-radius: 31px;
+    padding: 10px 34px;
+}
+.head-file {
+
+}
+.head-file-two {
+
+}
+/* SECTION-ONE PART END */
+
+
+
+/* SECTION-TWO PART START */
+.ante-file{
+    background: #0a2345;
+position: relative;
+}
+.ante-file h2{
+	     margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+ 
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+
+}
+.ante-file p {
+    margin: 0 auto;
+    text-align: center;
+    color: #66778e;
+    font-size: 11px;
+    padding-top: 10px;
+    font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+.one h4{
+text-align: left;
+    color: #fff;
+    font-size: 24px;
+}
+.one p{
+text-align: left;
+
+font-size: 14px;
+}
+
+.three{
+  margin: 0 auto;
+    text-align: center;
+    padding-top: 123px;
+}
+.three h4{
+text-align: left;
+    color: #fff;
+    font-size: 24px;
+}
+.three p{
+text-align: left;
+
+font-size: 14px;
+}
+.two h4{
+
+}
+.two p{
+
+}
+.one{
+        margin: 0 auto;
+    text-align: center;
+    padding-top: 123px;
+}
+.two{
+padding-top: 27%;
+    text-align: center;
+}
+.back-two{
+
+}
+.back-two img{
+top: 20%;
+    right: 2%;
+    position: absolute;
+}
+.four-img{
+        padding-right: 283px;
+}
+/* SECTION-TWO PART END */
+
+
+
+/* SECTION-THREE PART START */
+.down-files{
+      background: #0a2345;
+
+}
+.down-img img{
+        width: 100%;
+    margin-left: 106px;
+}
+.btn-cust-two{
+    background-color: transparent;
+    padding: 8px 8px;
+    border: 1px solid #265CA7;
+    margin-top: 50px;
+    border-radius: 25px;
+    margin: 25px 41%;
+}
+/* SECTION-THREE PART END */
+
+
+/* SECTION-FOUR PART START */
+
+/* SECTION-FOUR PART END */
+
+/* SECTION-FIVE PART START */
+.text-text{
+    background: #02060c;
+
+}
+.btn-cust-down{
+   background-color: transparent;
+    padding: 8px 8px;
+    border: 1px solid #265CA7;
+    margin-top: 50px;
+    border-radius: 25px;
+    margin: 25px 34%; 
+}
+/* SECTION-FIVE PART END */
+
+
+
+/* FOOTER PART START */
+.footer-mama{
+ background: #02060c;
+}
+
+
+}
+.footer-mama p{
+font-family: 'Roboto light', serif;
+    font-size: 16px;
+}
+
+.footer-border{
+    border-top: 1px solid #0c1625;
+}
+.footer-padding{
+        padding-top: 25px;
+}
+.footer-one a{
+text-align: left;
+    margin-left: 20px;
+    color: #14396a;
+}
+.footer-two p{
+    color: #14396a;
+    text-align: right;
+}
+/* FOOTER PART END */
+
+/*==========================================================================================================*/
+
+
+
+/*for mobile */
+
+@media (min-width: 320.0px) and (max-width: 576.0px){
+.nav-new{
+    background: #0a2345;
+    padding-top: 6px;
+}
+.head-head h2 {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -117px;
+    font-family: 'Roboto light', serif;
+    font-size: 24px;
+}
+
+.head-file {
+    margin-top: -134px;
+}
+
+
+.banner-files{
+    background: url(../img/back-one.png)no-repeat center;
+    padding-top: 9px;
+}
+
+/* HADER PART END */
+
+
+
+/* SECTION-ONE PART START */
+
+.sec-two h2 {
+    margin-left: 24px;
+    text-align: center;
+    padding-top: 14px;
+    font-family: 'Roboto bold', serif;
+    font-size: 22px;
+}
+.sec-two p {
+    font-family: 'Roboto light', serif;
+    font-size: 12px;
+    color: #66778e;
+    padding-top: 10px;
+    text-align: center;
+    margin-left: 34px;
+}
+.btn-cust-one{
+  background-color: transparent;
+    padding: 4px 15px;
+    border: 1px solid #265CA7;
+    margin-top: 50px;
+    border-radius: 25px;
+    margin: 8px 115px;
+    font-size: 11px;
+}
+
+.btn-two{
+    border-radius: 31px;
+    padding: 10px 34px;
+}
+
+/* SECTION-ONE PART END */
+
+
+
+/* SECTION-TWO PART START */
+.ante-file{
+    background: #0a2345;
+
+}
+.ante-file h2{
+         margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+ 
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+
+}
+.ante-file p {
+    margin: 0 auto;
+    text-align: center;
+    color: #66778e;
+    font-size: 11px;
+    padding-top: 10px;
+    font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+
+.one{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 35px;
+}
+
+.one h4 {
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Roboto bold', serif;
+}
+.one p {
+    text-align: center;
+    font-size: 14px;
+}
+
+.three {
+    margin-top: 364px;
+    text-align: center;
+    padding-top: 287px;
+}
+
+.three h4 {
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Roboto bold', serif;
+}
+.three p {
+    text-align: center;
+    font-size: 14px;
+}
+.two{
+padding-top: 27%;
+    text-align: center;
+}
+.btn-cust-two{
+        background-color: transparent;
+    padding: 4px -11px;
+    border: 1px solid #265CA7;
+    margin-top: 50px;
+    border-radius: 25px;
+    margin: 5px 113px;
+    font-size: 11px;
+    width: 32%;
+}
+.back-two img{
+width: 172%;
+    margin-left: -136px;
+    margin-top: -59px;
+}
+.four-img{
+        padding-right:0px;
+}
+/* SECTION-TWO PART END */
+
+
+
+/* SECTION-THREE PART START */
+.down-files{
+      background: #0a2345;
+margin-top: -55px;
+}
+.down-img img{
+            margin-left: 14px;
+}
+.down-head h4 {
+    text-align: left;
+    font-size: 18px;
+}
+.down-head p {
+    text-align: left;
+    font-size: 10px;
+}
+.five-img {
+    padding: 0px;
+    margin-left: 80px;
+}
+
+/* SECTION-THREE PART END */
+
+
+/* SECTION-FOUR PART START */
+
+/* SECTION-FOUR PART END */
+
+/* SECTION-FIVE PART START */
+.text-text{
+    background: #02060c;
+
+}
+.btn-cust-down {
+    background-color: transparent;
+    padding: 8px 8px;
+    border: 1px solid #265CA7;
+    margin-top: 50px;
+    border-radius: 25px;
+    margin: 25px 24%;
+}
+/* SECTION-FIVE PART END */
+
+
+
+/* FOOTER PART START */
+.footer-mama{
+ background: #02060c;
+}
+
+
+}
+
+.footer-one a {
+    text-align: left;
+    margin-left: 10px;
+    color: #14396a;
+}
+
+
+.footer-border{
+    border-top: 1px solid #0c1625;
+}
+.footer-padding{
+        padding-top: 25px;
+}
+
+.footer-two p {
+    color: #14396a;
+    text-align: right;
+    font-size: 14px;
+    padding-top: 7px;
+}
+
+}
+
+/*=========================================================================== */
+/* for tab */
+@media (min-width: 576.1px) and (max-width: 768.0px) {
+.three {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 686px;
+}
+}
